@@ -1,1 +1,12 @@
-Todo
+Steps to run
+
+* clone https://github.com/shannonrnwhite/sortable.git
+
+cd bin
+
+* java -jar sortable.jar <products.txt> <listings.txt> > <results.txt>
+
+Steps to build
+
+* If you have eclipse installed, simply create a Java project, setting the
+  project source to the repository src directory.
